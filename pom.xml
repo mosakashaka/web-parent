@@ -12,10 +12,10 @@
 		<version>2.3.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.mosakashaka</groupId>
-	<artifactId>wb-parent</artifactId>
+	<groupId>org.mosakashaka.web</groupId>
+	<artifactId>parent</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>wb-parent</name>
+	<name>parent</name>
 	<description>Parent Project</description>
 
 	<properties>
