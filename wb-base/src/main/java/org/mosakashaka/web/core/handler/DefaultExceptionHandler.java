@@ -1,8 +1,8 @@
-package core.handler;
+package org.mosakashaka.web.core.handler;
 
-import base.exception.BizException;
-import base.model.ResponseData;
-import base.util.IpUtil;
+import org.mosakashaka.web.base.exception.BizException;
+import org.mosakashaka.web.base.model.ResponseData;
+import org.mosakashaka.web.base.utils.IpUtil;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.commons.lang3.exception.ExceptionUtils;

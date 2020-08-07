@@ -1,4 +1,4 @@
-package base.exception;
+package org.mosakashaka.web.base.exception;
 
 public class BizException extends RuntimeException
 {

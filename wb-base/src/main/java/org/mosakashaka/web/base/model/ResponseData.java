@@ -1,4 +1,4 @@
-package base.model;
+package org.mosakashaka.web.base.model;
 
 public class ResponseData<T> {
     private boolean success;
@@ -8,7 +8,7 @@ public class ResponseData<T> {
 
     public ResponseData<T> success(T data) {
         success = true;
-        data = data;
+        this.data = data;
 
         return this;
     }

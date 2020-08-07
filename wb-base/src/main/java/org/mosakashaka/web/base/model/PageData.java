@@ -1,4 +1,4 @@
-package base.model;
+package org.mosakashaka.web.base.model;
 
 import com.github.pagehelper.PageInfo;
 
